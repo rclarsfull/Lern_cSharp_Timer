@@ -3,3 +3,13 @@ C:\Users\lp199\RiderProjects\Timer\Timer\obj\Debug\net6.0\Timer.GeneratedMSBuild
 C:\Users\lp199\RiderProjects\Timer\Timer\obj\Debug\net6.0\Timer.AssemblyInfoInputs.cache
 C:\Users\lp199\RiderProjects\Timer\Timer\obj\Debug\net6.0\Timer.AssemblyInfo.cs
 C:\Users\lp199\RiderProjects\Timer\Timer\obj\Debug\net6.0\Timer.csproj.CoreCompileInputs.cache
+C:\Users\lp199\RiderProjects\Timer\Timer\bin\Debug\net6.0\Timer.exe
+C:\Users\lp199\RiderProjects\Timer\Timer\bin\Debug\net6.0\Timer.deps.json
+C:\Users\lp199\RiderProjects\Timer\Timer\bin\Debug\net6.0\Timer.runtimeconfig.json
+C:\Users\lp199\RiderProjects\Timer\Timer\bin\Debug\net6.0\Timer.dll
+C:\Users\lp199\RiderProjects\Timer\Timer\bin\Debug\net6.0\ref\Timer.dll
+C:\Users\lp199\RiderProjects\Timer\Timer\bin\Debug\net6.0\Timer.pdb
+C:\Users\lp199\RiderProjects\Timer\Timer\obj\Debug\net6.0\Timer.dll
+C:\Users\lp199\RiderProjects\Timer\Timer\obj\Debug\net6.0\ref\Timer.dll
+C:\Users\lp199\RiderProjects\Timer\Timer\obj\Debug\net6.0\Timer.pdb
+C:\Users\lp199\RiderProjects\Timer\Timer\obj\Debug\net6.0\Timer.genruntimeconfig.cache
