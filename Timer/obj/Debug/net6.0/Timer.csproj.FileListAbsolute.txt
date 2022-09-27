@@ -1,0 +1,5 @@
+C:\Users\lp199\RiderProjects\Timer\Timer\obj\Debug\net6.0\Timer.csproj.AssemblyReference.cache
+C:\Users\lp199\RiderProjects\Timer\Timer\obj\Debug\net6.0\Timer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lp199\RiderProjects\Timer\Timer\obj\Debug\net6.0\Timer.AssemblyInfoInputs.cache
+C:\Users\lp199\RiderProjects\Timer\Timer\obj\Debug\net6.0\Timer.AssemblyInfo.cs
+C:\Users\lp199\RiderProjects\Timer\Timer\obj\Debug\net6.0\Timer.csproj.CoreCompileInputs.cache
